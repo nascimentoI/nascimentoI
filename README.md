@@ -1,5 +1,5 @@
 <h1> Hello World!</h1>
-<h2> Prazer, Ítalo Nascimento ⚡</h2>
+<h2> Prazer, Ítalo Nascimento.</h2>
 
 
 <p>🖥️ Estudante de Análise e Desenvolvimento de Sistemas no SENAI </p>
