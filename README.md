@@ -12,11 +12,6 @@
 </picture>
 <br><br>
 
-
-<div align="center">
-  <img height="462" src="https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-03T233740Z_1130132185_UP1EL531TMQH6_RTRMADP_3_SOCCER-BRAZIL-COR-INT.jpg?w=1292&quality=70&strip=all"  />
-</div>
-
 ###
 
 <div align="left">
@@ -47,6 +42,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="462" src="https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-03T233740Z_1130132185_UP1EL531TMQH6_RTRMADP_3_SOCCER-BRAZIL-COR-INT.jpg?w=1292&quality=70&strip=all"  />
 </div>
 
 ###
