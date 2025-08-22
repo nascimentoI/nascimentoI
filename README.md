@@ -1,4 +1,10 @@
+<h1> Hello World!</h1>
+<h2> Prazer, Ítalo Nascimento ⚡</h2>
 
+
+<p>🖥️ Estudante de Análise e Desenvolvimento de Sistemas no SENAI </p>
+<p>⚙️ Dev Júnior em Back-End | 17y </p>
+<p>🌍 🇧🇷</p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake-dark.svg">
