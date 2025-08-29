@@ -1,6 +1,4 @@
-<h1> Hello World!</h1>
-<h2> Prazer, Ítalo Nascimento.</h2>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=+<Hello+World>;+Developed+by+Ítalo+Nascimento)](https://git.io/typing-svg) 
 
 <p>🖥️ Estudante de Análise e Desenvolvimento de Sistemas no SENAI </p>
 <p>⚙️ Dev Júnior em Back-End | 17y </p>
