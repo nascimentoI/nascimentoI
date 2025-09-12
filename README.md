@@ -46,7 +46,15 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nascimentoI&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
+
+## 
+<div align="center">
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascimentoI&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentoI&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+ 
+</div>
 
 <div align="left">
 </div>
