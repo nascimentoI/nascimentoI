@@ -44,9 +44,7 @@
 
 ###
 
-<div align="center">
-  <img height="462" src="https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-03T233740Z_1130132185_UP1EL531TMQH6_RTRMADP_3_SOCCER-BRAZIL-COR-INT.jpg?w=1292&quality=70&strip=all"  />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrinho0611&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 
